@@ -1,0 +1,4 @@
+.playerrs {
+  display: grid;
+  grid-template-columns: 1rf, 1rf, 1rf;
+}
